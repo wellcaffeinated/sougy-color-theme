@@ -1,0 +1,12 @@
+comment #615c45
+white #FFFDFC
+green #bbe677
+violet #c86f87
+blueish #83d7c3
+text #C6B6A4
+red #c73636
+orange #f49234
+yellow #f4d572
+
+brown #643D37
+baby blue #69c0ee

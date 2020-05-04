@@ -1,0 +1,21 @@
+{
+    "name": "sougy",
+    "displayName": "sougy",
+    "description": "theme based on artwork by Paul Sougy",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sougy Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sougy Theme-color-theme.json"
+            }
+        ]
+    }
+}
